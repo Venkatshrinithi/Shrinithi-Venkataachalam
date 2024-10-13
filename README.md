@@ -16,6 +16,6 @@
 To reproduce the analysis, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
-   git clone https://github.com/Venkatshrinithi/Shrinithi-Venkataachalam.git
+git clone https://github.com/Venkatshrinithi/Shrinithi-Venkataachalam.git
 To reproduce the analysis, clone this repo and run the scripts placed in the `notebooks/` folder.
  
